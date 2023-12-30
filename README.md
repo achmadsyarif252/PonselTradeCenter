@@ -1,1 +1,2 @@
-![Screenshot_20231230_073246](https://github.com/achmadsyarif252/PonselTradeCenter/assets/86962642/7b98876e-03e9-44a8-8f88-4938a61789ff)
+add some styling and theme
+![Screenshot_20231230_095826](https://github.com/achmadsyarif252/PonselTradeCenter/assets/86962642/d0c04183-7e55-47d6-9557-24e86abf820e)
