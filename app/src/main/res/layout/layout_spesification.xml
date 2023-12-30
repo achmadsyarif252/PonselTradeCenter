@@ -6,6 +6,7 @@
 
     <TextView
         android:id="@+id/text_specification"
+        style="@style/TextContent.TitleMedium.Bold.MarginLeftRight"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_marginStart="8dp"
@@ -16,6 +17,7 @@
 
     <TextView
         android:id="@+id/text_spec_display_title"
+        style="@style/TextContent.BodyMedium.Bold"
         android:layout_width="58dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -26,6 +28,7 @@
 
     <TextView
         android:id="@+id/text_spec_display"
+        style="@style/TextContent.BodyMedium.Gray"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -38,6 +41,7 @@
 
     <TextView
         android:id="@+id/text_spec_size_title"
+        style="@style/TextContent.BodyMedium.Bold"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -48,6 +52,7 @@
 
     <TextView
         android:id="@+id/text_spec_size"
+        style="@style/TextContent.BodyMedium.Gray"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -60,6 +65,7 @@
 
     <TextView
         android:id="@+id/text_battery_title"
+        style="@style/TextContent.BodyMedium.Bold"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -70,6 +76,7 @@
 
     <TextView
         android:id="@+id/text_battery"
+        style="@style/TextContent.BodyMedium.Gray"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
